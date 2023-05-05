@@ -5,3 +5,5 @@ a=b+c
 print(a)
 
 print(5)
+
+print(6)
